@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Parisienne', cursive;
+    font-size: 40px;
+}
+
+li {
+    font-family: 'Playball', cursive;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.red {
+    color: red;
+}
+
+.purple {
+    color: purple;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+.blue {
+    color: blue;
+}
+
+.salmon {
+    color: salmon;
+}
+
+body {
+    background-image: url("https://c2.staticflickr.com/4/3110/3133190490_7ff36b89ba_b.jpg");
+}
+
+p {
+    font-family: 'Great Vibes', cursive;
+    font-size: 25px;
+}
